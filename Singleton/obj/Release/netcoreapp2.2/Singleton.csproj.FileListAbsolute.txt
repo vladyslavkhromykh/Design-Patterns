@@ -1,0 +1,11 @@
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Singleton\bin\Release\netcoreapp2.2\Singleton.deps.json
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Singleton\bin\Release\netcoreapp2.2\Singleton.runtimeconfig.json
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Singleton\bin\Release\netcoreapp2.2\Singleton.runtimeconfig.dev.json
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Singleton\bin\Release\netcoreapp2.2\Singleton.dll
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Singleton\bin\Release\netcoreapp2.2\Singleton.pdb
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Singleton\obj\Release\netcoreapp2.2\Singleton.csprojAssemblyReference.cache
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Singleton\obj\Release\netcoreapp2.2\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Singleton\obj\Release\netcoreapp2.2\Singleton.AssemblyInfoInputs.cache
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Singleton\obj\Release\netcoreapp2.2\Singleton.AssemblyInfo.cs
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Singleton\obj\Release\netcoreapp2.2\Singleton.dll
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Singleton\obj\Release\netcoreapp2.2\Singleton.pdb
