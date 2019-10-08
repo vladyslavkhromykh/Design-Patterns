@@ -1,0 +1,11 @@
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Prototype\bin\Release\netcoreapp2.2\Prototype.deps.json
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Prototype\bin\Release\netcoreapp2.2\Prototype.runtimeconfig.json
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Prototype\bin\Release\netcoreapp2.2\Prototype.runtimeconfig.dev.json
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Prototype\bin\Release\netcoreapp2.2\Prototype.dll
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Prototype\bin\Release\netcoreapp2.2\Prototype.pdb
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Prototype\obj\Release\netcoreapp2.2\Prototype.csprojAssemblyReference.cache
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Prototype\obj\Release\netcoreapp2.2\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Prototype\obj\Release\netcoreapp2.2\Prototype.AssemblyInfoInputs.cache
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Prototype\obj\Release\netcoreapp2.2\Prototype.AssemblyInfo.cs
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Prototype\obj\Release\netcoreapp2.2\Prototype.dll
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Prototype\obj\Release\netcoreapp2.2\Prototype.pdb
