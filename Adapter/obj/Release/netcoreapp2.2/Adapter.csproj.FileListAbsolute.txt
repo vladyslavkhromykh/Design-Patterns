@@ -1,0 +1,11 @@
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Adapter\bin\Release\netcoreapp2.2\Adapter.deps.json
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Adapter\bin\Release\netcoreapp2.2\Adapter.runtimeconfig.json
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Adapter\bin\Release\netcoreapp2.2\Adapter.runtimeconfig.dev.json
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Adapter\bin\Release\netcoreapp2.2\Adapter.dll
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Adapter\bin\Release\netcoreapp2.2\Adapter.pdb
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Adapter\obj\Release\netcoreapp2.2\Adapter.csprojAssemblyReference.cache
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Adapter\obj\Release\netcoreapp2.2\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Adapter\obj\Release\netcoreapp2.2\Adapter.AssemblyInfoInputs.cache
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Adapter\obj\Release\netcoreapp2.2\Adapter.AssemblyInfo.cs
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Adapter\obj\Release\netcoreapp2.2\Adapter.dll
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Adapter\obj\Release\netcoreapp2.2\Adapter.pdb
