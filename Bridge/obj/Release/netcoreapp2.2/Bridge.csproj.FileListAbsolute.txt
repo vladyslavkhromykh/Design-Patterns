@@ -1,0 +1,11 @@
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Bridge\bin\Release\netcoreapp2.2\Bridge.deps.json
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Bridge\bin\Release\netcoreapp2.2\Bridge.runtimeconfig.json
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Bridge\bin\Release\netcoreapp2.2\Bridge.runtimeconfig.dev.json
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Bridge\bin\Release\netcoreapp2.2\Bridge.dll
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Bridge\bin\Release\netcoreapp2.2\Bridge.pdb
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Bridge\obj\Release\netcoreapp2.2\Bridge.csprojAssemblyReference.cache
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Bridge\obj\Release\netcoreapp2.2\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Bridge\obj\Release\netcoreapp2.2\Bridge.AssemblyInfoInputs.cache
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Bridge\obj\Release\netcoreapp2.2\Bridge.AssemblyInfo.cs
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Bridge\obj\Release\netcoreapp2.2\Bridge.dll
+C:\Users\hromy\Desktop\It\Projects\Design-Patterns\Bridge\obj\Release\netcoreapp2.2\Bridge.pdb
