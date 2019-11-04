@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hromy\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hromy\\.nuget\\packages",
+      "C:\\Users\\hromy\\.dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
